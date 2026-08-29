@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="guan.ModbusBase/guan.ModbusBase.csproj" />
+  <Project Path="guan.MoubusRTULib/guan.MoubusRTULib.csproj" />
+  <Project Path="guan.MyControls/guan.MyControls.csproj" />
+  <Project Path="WindowsFormsApp1/guan.THProjectMain.csproj" />
+</Solution>
